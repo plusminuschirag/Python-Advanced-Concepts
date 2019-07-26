@@ -1,2 +1,6 @@
 venv/
 .vscode/
+.ipynb_checkpoints/
+Advanced Concepts/Simulated Annealing/.ipynb_checkpoints
+Advanced Optimizations/.ipynb_checkpoints
+Probabilistic DS/.ipynb_checkpoints
