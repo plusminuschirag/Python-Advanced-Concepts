@@ -1,5 +1,4 @@
 #include <Python.h>
-#include <stdio.h>
 
 static PyObject* loop(PyObject* self)
 {
